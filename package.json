@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@google-cloud/speech": "^6.7.1",
+    "fs": "^0.0.1-security",
+    "regenerator-runtime": "^0.14.1"
+  }
+}
